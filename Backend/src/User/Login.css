@@ -1,0 +1,70 @@
+.login-box{
+    background-image: url("https://i.pinimg.com/564x/5d/3b/0f/5d3b0f906ad997498dc8669ee5b92b74.jpg");
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.login-container{
+    height: 300px;
+    width: 400px;
+    background-color: rgba(255, 0, 0, 0);
+    margin-top: 0px;
+    margin-left: 1200px;
+    /* border: 2px solid #f9fdfc; */
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.sign{
+    background-image: url("https://i.pinimg.com/564x/6b/1f/95/6b1f9554c86e219936358ae59a88ba08.jpg");
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.login-inputs h4{
+color: #060606;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.login-inputs p u{
+   color: rgb(14, 14, 14);
+   cursor: pointer;
+}
+.login-inputs p{
+   font-size: 10px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.login-inputs{
+    margin-left: 40px;
+    
+}
+.login-inputs input{
+    height: 30px;
+    width: 270px;
+    border-radius: 4px;
+    border: 2px solid #0e0e0f;
+}
+.login-container button{
+    margin-top: 40px;
+    height: 30px;
+    width: 100px;
+    border-radius: 4px;
+    background-color:#f7f1f9;
+    cursor: pointer;
+    border: 1px solid rgb(8, 5, 2);
+}
+.login-box h1{
+    margin-top: 350px;
+    margin-left: 1200px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.login-box{
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+}
